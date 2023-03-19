@@ -2,9 +2,9 @@
 
 Welcome to Lungs Up's Mucoscope Data Repository! Here you can find our preliminary CAD designs for the stethoscope head, our Python notebook that houses our pneumonia classifier, and the data sets that we trained and tested on.
 
-See our website for more information about our project: 
+See our website for more information about our project: [Mucoscope Home Page] 
 
-**CAD folder:** contains our two CAD designs for our stethoscope head that we used for early prototyping. They are built upon the GliaX Stethoscope head design (Github [here](https://github.com/GliaX/Stethoscope))  
+**CAD folder:** contains our two CAD designs for our stethoscope head that we used for early prototyping. They are built upon the GliaX Stethoscope head design (Github [here](https://github.com/GliaX/Stethoscope)).  
 
 **Pneumonia_Classifier.ipynb:** contains the CNN model from Kaggle that we generalized, decomposed, and modularized for ease of use. At the top, the user can modify the parameters that are passed into the "run_analysis" function. This function generates features and labels for a dataset, splits it, and then trains and tests the model. The other user-facing function is "test_only": this function requires a trained model and evaluates a pre-processed test set on this model. Please note that this notebook is still preliminary and so may require minor changes to adapt to a new dataset.
 
