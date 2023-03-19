@@ -8,7 +8,7 @@ See our website for more information about our project:
 
 **Pneumonia_Classifier.ipynb:** contains the CNN model from Kaggle that we generalized, decomposed, and modularized for ease of use. At the top, the user can modify the parameters that are passed into the "run_analysis" function. This function generates features and labels for a dataset, splits it, and then trains and tests the model. The other user-facing function is "test_only": this function requires a trained model and evaluates a pre-processed test set on this model. Please note that this notebook is still preliminary and so may require minor changes to adapt to a new dataset.
 
-**SoundDatasets folder:** contains the three data sources of lung recordings we used for our classifier. We have divided each of the sources into a folder with the recordings ("audio_files") and a file used as the labels ("labels.csv"). The table below provides more information on each source:
+**SoundDatasets folder:** contains the three data sources of pnuemonia lung sound recordings we used for our classifier. We have divided each of the sources into a folder with the recordings ("audio_files") and a file used as the labels ("labels.csv"). The table below provides more information on each source:
 
 | Name | Description | Locations of Origin | # of Recordings |
 |:---:|:---:|:---:|:---:|
@@ -19,4 +19,4 @@ See our website for more information about our project:
 Citations: <br> 
 Dutta, Malay Kishore (2022), “Pulmonary (Lungs)  Sound”, Mendeley Data, V1, doi: 10.17632/fr7zvy8j5s.1  <br>
 Fraiwan, Mohammad; Fraiwan, Luay; Khassawneh, Basheer; Ibnian, Ali (2021), “A dataset of lung sounds recorded from the chest wall using an electronic stethoscope”, Mendeley Data, V3, doi: 10.17632/jwyy9np4gv.3  <br>
-Rocha BM, Filos D, Mendes L, Vogiatzis I, Perantoni E, Kaimakamis E, Natsiavas P, Oliveira A, Jácome C, Marques A, Paiva RP (2018) In Precision Medicine Powered by pHealth and Connected Health (pp. 51-55). Springer, Singapore.<br>
+Rocha BM, Filos D, Mendes L, Vogiatzis I, Perantoni E, Kaimakamis E, Natsiavas P, Oliveira A, Jácome C, Marques A, Paiva RP (2018) In Precision Medicine Powered by pHealth and Connected Health (pp. 51-55). Springer, Singapore.
