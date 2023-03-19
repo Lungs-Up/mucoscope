@@ -11,6 +11,11 @@ SoundDatasets folder: contains the three data sources of lung recordings we used
 
 | Name | Description | Locations of Origin | # of Recordings |
 |---|---|---|---|
-|Respiratory Sound Database (Rocha_etal)|“920 annotated recordings of varying length - 10s to 90s. These recordings were taken from 126 patients. There are a total of 5.5 hours of recordings containing 6898 respiratory cycles - 1864 contain crackles, 886 contain wheezes and 506 contain both crackles and wheezes.”|Respiratory Research and Rehabilitation Laboratory (Lab3R), School of Health Sciences, University of Aveiro, Aveiro, Portugal;
-Papanikolaou General Hospital and the General Hospital of Imathia, Aristotle University of Thessaloniki and the University of Coimbra, Thessaloniki, Greece
-|921|
+|Respiratory Sound Database (Rocha_etal)|“920 annotated recordings of varying length - 10s to 90s. These recordings were taken from 126 patients. There are a total of 5.5 hours of recordings containing 6898 respiratory cycles - 1864 contain crackles, 886 contain wheezes and 506 contain both crackles and wheezes.”|Respiratory Research and Rehabilitation Laboratory (Lab3R), School of Health Sciences, University of Aveiro, Aveiro, Portugal; Papanikolaou General Hospital and the General Hospital of Imathia, Aristotle University of Thessaloniki and the University of Coimbra, Thessaloniki, Greece |921|
+|Pulmonary (Lungs) Sound (Baghel_etal)|“The pulmonary sound dataset is arranged in two sets: a normal set (11.28%) representing recordings obtained from healthy subjects and an abnormal set (88.72%) containing recordings from pulmonary patients. Each file is 10 s long.”|Fortis Hospital, Vasant Kunj, New Delhi, India|468|
+|A dataset of lung sounds recorded from the chest wall using an electronic stethoscope (Fraiwan_etal)|“The overall dataset consisted of a total of 308 lung sound recordings, each of 5 s duration.” “The primary dataset involved a total of 70 patients with different respiratory conditions such as asthma, pneumonia, heart failure, bronchiectasis or bronchitis (BRON disorders), and chronic obstructive pulmonary disease (COPD). Data were also recorded from 35 healthy controls.“|King Abdullah University Hospital, Jordan; University of Science and Technology, Irbid, Jordan|336|
+
+Citations:
+Dutta, Malay Kishore (2022), “Pulmonary (Lungs)  Sound”, Mendeley Data, V1, doi: 10.17632/fr7zvy8j5s.1
+Fraiwan, Mohammad; Fraiwan, Luay; Khassawneh, Basheer; Ibnian, Ali (2021), “A dataset of lung sounds recorded from the chest wall using an electronic stethoscope”, Mendeley Data, V3, doi: 10.17632/jwyy9np4gv.3
+Rocha BM, Filos D, Mendes L, Vogiatzis I, Perantoni E, Kaimakamis E, Natsiavas P, Oliveira A, Jácome C, Marques A, Paiva RP (2018) In Precision Medicine Powered by pHealth and Connected Health (pp. 51-55). Springer, Singapore.
