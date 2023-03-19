@@ -1,0 +1,336 @@
+"EP112_N,N,P L M,30,M.wav",Not Pneumonia
+"EP111_COPD,E W,P R L ,51,M.wav",Not Pneumonia
+"EP110_COPD,E W,P L L,62,M.wav",Not Pneumonia
+"EP109_N,N,P L M,26,M.wav",Not Pneumonia
+"EP108_COPD,E W,P R L ,63,M.wav",Not Pneumonia
+"EP107_Asthma,E W,P L U,59,F.wav",Not Pneumonia
+"EP106_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"EP105_Lung Fibrosis,Crep,A U R,44,M.wav",Not Pneumonia
+"EP104_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"EP103_N,N,P R U,81,F.wav",Not Pneumonia
+"EP102_N,N,P L L,41,M.wav",Not Pneumonia
+"EP101_Asthma,E W,P L M,12,F.wav",Not Pneumonia
+"EP100_N,N,P R M,70,F.wav",Not Pneumonia
+"EP99_N,N,P R M,50,M.wav",Not Pneumonia
+"EP98_N,N,P L L,53,M.wav",Not Pneumonia
+"EP97_Asthma,E W,P R U,24,M.wav",Not Pneumonia
+"EP96_N,N,P R L ,66,F.wav",Not Pneumonia
+"EP95_N,N,P L M,18,M.wav",Not Pneumonia
+"EP94_N,N,P L L,24,M.wav",Not Pneumonia
+"EP93_N,N,P R M,75,M.wav",Not Pneumonia
+"EP92_N,N,P L L ,43,M.wav",Not Pneumonia
+"EP91_asthma,E W,P R U,43,F.wav",Not Pneumonia
+"EP90_heart failure,Crep,P L M,74,F.wav",Not Pneumonia
+"EP89_N,N,P L M,70,M.wav",Not Pneumonia
+"EP88_N,N,A R U,29,M.wav",Not Pneumonia
+"EP87_N,N,P R M,72,M.wav",Not Pneumonia
+"EP86_N,N,P R U,68,F.wav",Not Pneumonia
+"EP85_N,N,A R U,33,M.wav",Not Pneumonia
+"EP84_N,N,A R U,65,F.wav",Not Pneumonia
+"EP83_N,N,A R U,18,F.wav",Not Pneumonia
+"EP82_N,N,P L U,38,M.wav",Not Pneumonia
+"EP81_N,N,P L U,33,M.wav",Not Pneumonia
+"EP80_asthma,E W,A L U,38,M.wav",Not Pneumonia
+"EP79_asthma,E W,A R U,46,M.wav",Not Pneumonia
+"EP78_Asthma,E W,P R M,20,M.wav",Not Pneumonia
+"EP77_Asthma,E W,A R L,40,M.wav",Not Pneumonia
+"EP76_N,N,A L U,31,M.wav",Not Pneumonia
+"EP75_N,N,P L U,73,F.wav",Not Pneumonia
+"EP74_N,N,P R M,74,M.wav",Not Pneumonia
+"EP73_N,N,P L L,32,M.wav",Not Pneumonia
+"EP72_N,N,P R U,24,F.wav",Not Pneumonia
+"EP71_N,N,P R U,36,M.wav",Not Pneumonia
+"EP70_N,N,P L U,52,F.wav",Not Pneumonia
+"EP69_pneumonia,Bronchial,P R L ,64,M.wav",Pneumonia
+"EP68_asthma,E W,P R L ,21,F.wav",Not Pneumonia
+"EP67_heart failure,Crep,P R L ,24,F.wav",Not Pneumonia
+"EP66_heart failure,Crep,P R L ,43,M.wav",Not Pneumonia
+"EP65_asthma,E W,P R L ,60,F.wav",Not Pneumonia
+"EP64_asthma,E W,P L U,60,M.wav",Not Pneumonia
+"EP63_COPD,E W,P R L ,58,F.wav",Not Pneumonia
+"EP62_COPD,E W,P L M,53,M.wav",Not Pneumonia
+"EP61_COPD,E W,P R L ,53,M.wav",Not Pneumonia
+"EP60_heart failure,Crep,P L L,83,F.wav",Not Pneumonia
+"EP59_heart failure,Crep,P R L ,83,F.wav",Not Pneumonia
+"EP58_asthma,E W,P L M,40,M.wav",Not Pneumonia
+"EP57_COPD,E W,P R L ,42,M.wav",Not Pneumonia
+"EP56_asthma,E W,P R M,56,F.wav",Not Pneumonia
+"EP55_asthma,E W,P R U,72,F.wav",Not Pneumonia
+"EP54_heart failure,Crep,P R L ,73,F.wav",Not Pneumonia
+"EP53_asthma,E W,P R M,72,F.wav",Not Pneumonia
+"EP52_Lung Fibrosis,Crep,P L L,76,F.wav",Not Pneumonia
+"EP51_N,N,P L M,30,M.wav",Not Pneumonia
+"EP50_N,N,P R L ,27,M.wav",Not Pneumonia
+"EP49_N,N,P R M,21,M.wav",Not Pneumonia
+"EP48_N,N,P L U,31,M.wav",Not Pneumonia
+"EP47_asthma,E W,P L M,60,M.wav",Not Pneumonia
+"EP46_asthma,E W,P L U,41,F.wav",Not Pneumonia
+"EP45_heart failure,Crep,P R L ,30,M.wav",Not Pneumonia
+"EP44_asthma,E W,P R U,40,M.wav",Not Pneumonia
+"EP43_asthma,E W,P L M,15,M.wav",Not Pneumonia
+"EP42_heart failure,Crep,P L L,56,M.wav",Not Pneumonia
+"EP41_pneumonia,Crep,P R M,51,M.wav",Pneumonia
+"EP40_heart failure,Crep,A R M,26,M.wav",Not Pneumonia
+"EP39_heart failure,Crep,P R L ,67,M.wav",Not Pneumonia
+"EP38_Asthma,E W,P R M,38,M.wav",Not Pneumonia
+"EP37_pneumonia,Crep,A R L,70,F.wav",Pneumonia
+"EP36_pneumonia,Crep,P R M,36,F.wav",Pneumonia
+"EP35_Asthma,E W,A R L,38,M.wav",Not Pneumonia
+"EP34_heart failure,Crep,P R M,78,F.wav",Not Pneumonia
+"EP33_Asthma,E W,P R M,43,F.wav",Not Pneumonia
+"EP32_N,N,A R L,30,M.wav",Not Pneumonia
+"EP31_N,N,P L M,27,F.wav",Not Pneumonia
+"EP30_N,N,P R M,18,F.wav",Not Pneumonia
+"EP29_heart failure,Crep,P L L,57,M.wav",Not Pneumonia
+"EP28_BRON,Crep,P L U,68,F.wav",Not Pneumonia
+"EP27_asthma,E W,P R M,53,F.wav",Not Pneumonia
+"EP26_Lung Fibrosis,Crep,P,90,F.wav",Not Pneumonia
+"EP25_copd,E W,P L L,76,M.wav",Not Pneumonia
+"EP24_heart failure,Crep,P R L ,76,F.wav",Not Pneumonia
+"EP23_Lung Fibrosis,Crep,P R L ,50,M.wav",Not Pneumonia
+"EP22_BRON,Crep,P R U,24,M.wav",Not Pneumonia
+"EP21_BRON,Crep,P R L ,20,M.wav",Not Pneumonia
+"EP20_Asthma and lung fibrosis,C,A R M,90,M.wav",Not Pneumonia
+"EP19_heart failure,C,P R U,70,F.wav",Not Pneumonia
+"EP18_pneumonia,C,P R U,57,M.wav",Pneumonia
+"EP17_COPD,E W,A R M,57,M.wav",Not Pneumonia
+"EP16_heart failure,C,P R U,56,M.wav",Not Pneumonia
+"EP15_Asthma,E W,P R U,49,F.wav",Not Pneumonia
+"EP14_Heart Failure,C,A R M,54,M.wav",Not Pneumonia
+"EP13_Heart Failure,C,P L L,55,M.wav",Not Pneumonia
+"EP12_Asthma,E W,P L L,50,F.wav",Not Pneumonia
+"EP11_Heart Failure,C,P L L,53,M.wav",Not Pneumonia
+"EP10_Asthma,E W,P R U,59,M.wav",Not Pneumonia
+"EP9_Asthma,E W,P R L ,59,M.wav",Not Pneumonia
+"EP8_Plueral Effusion,I C B,P L L,70,M.wav",Not Pneumonia
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",Not Pneumonia
+"EP6_Plueral Effusion,I C B,P L R,81,M.wav",Not Pneumonia
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",Not Pneumonia
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",Not Pneumonia
+"EP3_Asthma,I E W,P L L R,50,F.wav",Not Pneumonia
+"EP2_Asthma,E W,P L L R,52,F.wav",Not Pneumonia
+"EP1_Asthma,I E W,P L L,70,M.wav",Not Pneumonia
+"DP112_N,N,P L M,30,M.wav",Not Pneumonia
+"DP111_COPD,E W,P R L ,51,M.wav",Not Pneumonia
+"DP110_COPD,E W,P L L,62,M.wav",Not Pneumonia
+"DP109_N,N,P L M,26,M.wav",Not Pneumonia
+"DP108_COPD,E W,P R L ,63,M.wav",Not Pneumonia
+"DP107_Asthma,E W,P L U,59,F.wav",Not Pneumonia
+"DP106_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"DP105_Lung Fibrosis,Crep,A U R,44,M.wav",Not Pneumonia
+"DP104_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"DP103_N,N,P R U,81,F.wav",Not Pneumonia
+"DP102_N,N,P L L,41,M.wav",Not Pneumonia
+"DP101_Asthma,E W,P L M,12,F.wav",Not Pneumonia
+"DP100_N,N,P R M,70,F.wav",Not Pneumonia
+"DP99_N,N,P R M,50,M.wav",Not Pneumonia
+"DP98_N,N,P L L,53,M.wav",Not Pneumonia
+"DP97_Asthma,E W,P R U,24,M.wav",Not Pneumonia
+"DP96_N,N,P R L ,66,F.wav",Not Pneumonia
+"DP95_N,N,P L M,18,M.wav",Not Pneumonia
+"DP94_N,N,P L L,24,M.wav",Not Pneumonia
+"DP93_N,N,P R M,75,M.wav",Not Pneumonia
+"DP92_N,N,P L L ,43,M.wav",Not Pneumonia
+"DP91_asthma,E W,P R U,43,F.wav",Not Pneumonia
+"DP90_heart failure,Crep,P L M,74,F.wav",Not Pneumonia
+"DP89_N,N,P L M,70,M.wav",Not Pneumonia
+"DP88_N,N,A R U,29,M.wav",Not Pneumonia
+"DP87_N,N,P R M,72,M.wav",Not Pneumonia
+"DP86_N,N,P R U,68,F.wav",Not Pneumonia
+"DP85_N,N,A R U,33,M.wav",Not Pneumonia
+"DP84_N,N,A R U,65,F.wav",Not Pneumonia
+"DP83_N,N,A R U,18,F.wav",Not Pneumonia
+"DP82_N,N,P L U,38,M.wav",Not Pneumonia
+"DP81_N,N,P L U,33,M.wav",Not Pneumonia
+"DP80_asthma,E W,A L U,38,M.wav",Not Pneumonia
+"DP79_asthma,E W,A R U,46,M.wav",Not Pneumonia
+"DP78_Asthma,E W,P R M,20,M.wav",Not Pneumonia
+"DP77_Asthma,E W,A R L,40,M.wav",Not Pneumonia
+"DP76_N,N,A L U,31,M.wav",Not Pneumonia
+"DP75_N,N,P L U,73,F.wav",Not Pneumonia
+"DP74_N,N,P R M,74,M.wav",Not Pneumonia
+"DP73_N,N,P L L,32,M.wav",Not Pneumonia
+"DP72_N,N,P R U,24,F.wav",Not Pneumonia
+"DP71_N,N,P R U,36,M.wav",Not Pneumonia
+"DP70_N,N,P L U,52,F.wav",Not Pneumonia
+"DP69_pneumonia,Bronchial,P R L ,64,M.wav",Pneumonia
+"DP68_asthma,E W,P R L ,21,F.wav",Not Pneumonia
+"DP67_heart failure,Crep,P R L ,24,F.wav",Not Pneumonia
+"DP66_heart failure,Crep,P R L ,43,M.wav",Not Pneumonia
+"DP65_asthma,E W,P R L ,60,F.wav",Not Pneumonia
+"DP64_asthma,E W,P L U,60,M.wav",Not Pneumonia
+"DP63_COPD,E W,P R L ,58,F.wav",Not Pneumonia
+"DP62_COPD,E W,P L M,53,M.wav",Not Pneumonia
+"DP61_COPD,E W,P R L ,53,M.wav",Not Pneumonia
+"DP60_heart failure,Crep,P L L,83,F.wav",Not Pneumonia
+"DP59_heart failure,Crep,P R L ,83,F.wav",Not Pneumonia
+"DP58_asthma,E W,P L M,40,M.wav",Not Pneumonia
+"DP57_COPD,E W,P R L ,42,M.wav",Not Pneumonia
+"DP56_asthma,E W,P R M,56,F.wav",Not Pneumonia
+"DP55_asthma,E W,P R U,72,F.wav",Not Pneumonia
+"DP54_heart failure,Crep,P R L ,73,F.wav",Not Pneumonia
+"DP53_asthma,E W,P R M,72,F.wav",Not Pneumonia
+"DP52_Lung Fibrosis,Crep,P L L,76,F.wav",Not Pneumonia
+"DP51_N,N,P L M,30,M.wav",Not Pneumonia
+"DP50_N,N,P R L ,27,M.wav",Not Pneumonia
+"DP49_N,N,P R M,21,M.wav",Not Pneumonia
+"DP48_N,N,P L U,31,M.wav",Not Pneumonia
+"DP47_asthma,E W,P L M,60,M.wav",Not Pneumonia
+"DP46_asthma,E W,P L U,41,F.wav",Not Pneumonia
+"DP45_heart failure,Crep,P R L ,30,M.wav",Not Pneumonia
+"DP44_asthma,E W,P R U,40,M.wav",Not Pneumonia
+"DP43_asthma,E W,P L M,15,M.wav",Not Pneumonia
+"DP42_heart failure,Crep,P L L,56,M.wav",Not Pneumonia
+"DP41_pneumonia,Crep,P R M,51,M.wav",Pneumonia
+"DP40_heart failure,Crep,A R M,26,M.wav",Not Pneumonia
+"DP39_heart failure,Crep,P R L ,67,M.wav",Not Pneumonia
+"DP38_Asthma,E W,P R M,38,M.wav",Not Pneumonia
+"DP37_pneumonia,Crep,A R L,70,F.wav",Pneumonia
+"DP36_pneumonia,Crep,P R M,36,F.wav",Pneumonia
+"DP35_Asthma,E W,A R L,38,M.wav",Not Pneumonia
+"DP34_heart failure,Crep,P R M,78,F.wav",Not Pneumonia
+"DP33_Asthma,E W,P R M,43,F.wav",Not Pneumonia
+"DP32_N,N,A R L,30,M.wav",Not Pneumonia
+"DP31_N,N,P L M,27,F.wav",Not Pneumonia
+"DP30_N,N,P R M,18,F.wav",Not Pneumonia
+"DP29_heart failure,Crep,P L L,57,M.wav",Not Pneumonia
+"DP28_BRON,Crep,P L U,68,F.wav",Not Pneumonia
+"DP27_asthma,E W,P R M,53,F.wav",Not Pneumonia
+"DP26_Lung Fibrosis,Crep,P,90,F.wav",Not Pneumonia
+"DP25_copd,E W,P L L,76,M.wav",Not Pneumonia
+"DP24_heart failure,Crep,P R L ,76,F.wav",Not Pneumonia
+"DP23_Lung Fibrosis,Crep,P R L ,50,M.wav",Not Pneumonia
+"DP22_BRON,Crep,P R U,24,M.wav",Not Pneumonia
+"DP21_BRON,Crep,P R L ,20,M.wav",Not Pneumonia
+"DP20_Asthma and lung fibrosis,C,A R M,90,M.wav",Not Pneumonia
+"DP19_heart failure,C,P R U,70,F.wav",Not Pneumonia
+"DP18_pneumonia,C,P R U,57,M.wav",Pneumonia
+"DP17_COPD,E W,A R M,57,M.wav",Not Pneumonia
+"DP16_heart failure,C,P R U,56,M.wav",Not Pneumonia
+"DP15_Asthma,E W,P R U,49,F.wav",Not Pneumonia
+"DP14_Heart Failure,C,A R M,54,M.wav",Not Pneumonia
+"DP13_Heart Failure,C,P L L,55,M.wav",Not Pneumonia
+"DP12_Asthma,E W,P L L,50,F.wav",Not Pneumonia
+"DP11_Heart Failure,C,P L L,53,M.wav",Not Pneumonia
+"DP10_Asthma,E W,P R U,59,M.wav",Not Pneumonia
+"DP9_Asthma,E W,P R L ,59,M.wav",Not Pneumonia
+"DP8_Plueral Effusion,I C B,P L L,70,M.wav",Not Pneumonia
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",Not Pneumonia
+"DP6_Plueral Effusion,I C B,P L R,81,M.wav",Not Pneumonia
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",Not Pneumonia
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",Not Pneumonia
+"DP3_Asthma,I E W,P L L R,50,F.wav",Not Pneumonia
+"DP2_Asthma,E W,P L L R,52,F.wav",Not Pneumonia
+"DP1_Asthma,I E W,P L L,70,M.wav",Not Pneumonia
+"BP112_N,N,P L M,30,M.wav",Not Pneumonia
+"BP111_COPD,E W,P R L ,51,M.wav",Not Pneumonia
+"BP110_COPD,E W,P L L,62,M.wav",Not Pneumonia
+"BP109_N,N,P L M,26,M.wav",Not Pneumonia
+"BP108_COPD,E W,P R L ,63,M.wav",Not Pneumonia
+"BP107_Asthma,E W,P L U,59,F.wav",Not Pneumonia
+"BP106_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"BP105_Lung Fibrosis,Crep,A U R,44,M.wav",Not Pneumonia
+"BP104_Asthma,E W,P L U,45,F.wav",Not Pneumonia
+"BP103_N,N,P R U,81,F.wav",Not Pneumonia
+"BP102_N,N,P L L,41,M.wav",Not Pneumonia
+"BP101_Asthma,E W,P L M,12,F.wav",Not Pneumonia
+"BP100_N,N,P R M,70,F.wav",Not Pneumonia
+"BP99_N,N,P R M,50,M.wav",Not Pneumonia
+"BP98_N,N,P L L,53,M.wav",Not Pneumonia
+"BP97_Asthma,E W,P R U,24,M.wav",Not Pneumonia
+"BP96_N,N,P R L ,66,F.wav",Not Pneumonia
+"BP95_N,N,P L M,18,M.wav",Not Pneumonia
+"BP94_N,N,P L L,24,M.wav",Not Pneumonia
+"BP93_N,N,P R M,75,M.wav",Not Pneumonia
+"BP92_N,N,P L L ,43,M.wav",Not Pneumonia
+"BP91_asthma,E W,P R U,43,F.wav",Not Pneumonia
+"BP90_heart failure,Crep,P L M,74,F.wav",Not Pneumonia
+"BP89_N,N,P L M,70,M.wav",Not Pneumonia
+"BP88_N,N,A R U,29,M.wav",Not Pneumonia
+"BP87_N,N,P R M,72,M.wav",Not Pneumonia
+"BP86_N,N,P R U,68,F.wav",Not Pneumonia
+"BP85_N,N,A R U,33,M.wav",Not Pneumonia
+"BP84_N,N,A R U,65,F.wav",Not Pneumonia
+"BP83_N,N,A R U,18,F.wav",Not Pneumonia
+"BP82_N,N,P L U,38,M.wav",Not Pneumonia
+"BP81_N,N,P L U,33,M.wav",Not Pneumonia
+"BP80_asthma,E W,A L U,38,M.wav",Not Pneumonia
+"BP79_asthma,E W,A R U,46,M.wav",Not Pneumonia
+"BP78_Asthma,E W,P R M,20,M.wav",Not Pneumonia
+"BP77_Asthma,E W,A R L,40,M.wav",Not Pneumonia
+"BP76_N,N,A L U,31,M.wav",Not Pneumonia
+"BP75_N,N,P L U,73,F.wav",Not Pneumonia
+"BP74_N,N,P R M,74,M.wav",Not Pneumonia
+"BP73_N,N,P L L,32,M.wav",Not Pneumonia
+"BP72_N,N,P R U,24,F.wav",Not Pneumonia
+"BP71_N,N,P R U,36,M.wav",Not Pneumonia
+"BP70_N,N,P L U,52,F.wav",Not Pneumonia
+"BP69_pneumonia,Bronchial,P R L ,64,M.wav",Pneumonia
+"BP68_asthma,E W,P R L ,21,F.wav",Not Pneumonia
+"BP67_heart failure,Crep,P R L ,24,F.wav",Not Pneumonia
+"BP66_heart failure,Crep,P R L ,43,M.wav",Not Pneumonia
+"BP65_asthma,E W,P R L ,60,F.wav",Not Pneumonia
+"BP64_asthma,E W,P L U,60,M.wav",Not Pneumonia
+"BP63_COPD,E W,P R L ,58,F.wav",Not Pneumonia
+"BP62_COPD,E W,P L M,53,M.wav",Not Pneumonia
+"BP61_COPD,E W,P R L ,53,M.wav",Not Pneumonia
+"BP60_heart failure,Crep,P L L,83,F.wav",Not Pneumonia
+"BP59_heart failure,Crep,P R L ,83,F.wav",Not Pneumonia
+"BP58_asthma,E W,P L M,40,M.wav",Not Pneumonia
+"BP57_COPD,E W,P R L ,42,M.wav",Not Pneumonia
+"BP56_asthma,E W,P R M,56,F.wav",Not Pneumonia
+"BP55_asthma,E W,P R U,72,F.wav",Not Pneumonia
+"BP54_heart failure,Crep,P R L ,73,F.wav",Not Pneumonia
+"BP53_asthma,E W,P R M,72,F.wav",Not Pneumonia
+"BP52_Lung Fibrosis,Crep,P L L,76,F.wav",Not Pneumonia
+"BP51_N,N,P L M,30,M.wav",Not Pneumonia
+"BP50_N,N,P R L ,27,M.wav",Not Pneumonia
+"BP49_N,N,P R M,21,M.wav",Not Pneumonia
+"BP48_N,N,P L U,31,M.wav",Not Pneumonia
+"BP47_asthma,E W,P L M,60,M.wav",Not Pneumonia
+"BP46_asthma,E W,P L U,41,F.wav",Not Pneumonia
+"BP45_heart failure,Crep,P R L ,30,M.wav",Not Pneumonia
+"BP44_asthma,E W,P R U,40,M.wav",Not Pneumonia
+"BP43_asthma,E W,P L M,15,M.wav",Not Pneumonia
+"BP42_heart failure,Crep,P L L,56,M.wav",Not Pneumonia
+"BP41_pneumonia,Crep,P R M,51,M.wav",Pneumonia
+"BP40_heart failure,Crep,A R M,26,M.wav",Not Pneumonia
+"BP39_heart failure,Crep,P R L ,67,M.wav",Not Pneumonia
+"BP38_Asthma,E W,P R M,38,M.wav",Not Pneumonia
+"BP37_pneumonia,Crep,A R L,70,F.wav",Pneumonia
+"BP36_pneumonia,Crep,P R M,36,F.wav",Pneumonia
+"BP35_Asthma,E W,A R L,38,M.wav",Not Pneumonia
+"BP34_heart failure,Crep,P R M,78,F.wav",Not Pneumonia
+"BP33_Asthma,E W,P R M,43,F.wav",Not Pneumonia
+"BP32_N,N,A R L,30,M.wav",Not Pneumonia
+"BP31_N,N,P L M,27,F.wav",Not Pneumonia
+"BP30_N,N,P R M,18,F.wav",Not Pneumonia
+"BP29_heart failure,Crep,P L L,57,M.wav",Not Pneumonia
+"BP28_BRON,Crep,P L U,68,F.wav",Not Pneumonia
+"BP27_asthma,E W,P R M,53,F.wav",Not Pneumonia
+"BP26_Lung Fibrosis,Crep,P,90,F.wav",Not Pneumonia
+"BP25_copd,E W,P L L,76,M.wav",Not Pneumonia
+"BP24_heart failure,Crep,P R L ,76,F.wav",Not Pneumonia
+"BP23_Lung Fibrosis,Crep,P R L ,50,M.wav",Not Pneumonia
+"BP22_BRON,Crep,P R U,24,M.wav",Not Pneumonia
+"BP21_BRON,Crep,P R L ,20,M.wav",Not Pneumonia
+"BP20_Asthma and lung fibrosis,C,A R M,90,M.wav",Not Pneumonia
+"BP19_heart failure,C,P R U,70,F.wav",Not Pneumonia
+"BP18_pneumonia,C,P R U,57,M.wav",Pneumonia
+"BP17_COPD,E W,A R M,57,M.wav",Not Pneumonia
+"BP16_heart failure,C,P R U,56,M.wav",Not Pneumonia
+"BP15_Asthma,E W,P R U,49,F.wav",Not Pneumonia
+"BP14_Heart Failure,C,A R M,54,M.wav",Not Pneumonia
+"BP13_Heart Failure,C,P L L,55,M.wav",Not Pneumonia
+"BP12_Asthma,E W,P L L,50,F.wav",Not Pneumonia
+"BP11_Heart Failure,C,P L L,53,M.wav",Not Pneumonia
+"BP10_Asthma,E W,P R U,59,M.wav",Not Pneumonia
+"BP9_Asthma,E W,P R L ,59,M.wav",Not Pneumonia
+"BP8_Plueral Effusion,I C B,P L L,70,M.wav",Not Pneumonia
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",Not Pneumonia
+"BP6_Plueral Effusion,I C B,P L R,81,M.wav",Not Pneumonia
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",Not Pneumonia
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",Not Pneumonia
+"BP3_Asthma,I E W,P L L R,50,F.wav",Not Pneumonia
+"BP2_Asthma,E W,P L L R,52,F.wav",Not Pneumonia
+"BP1_Asthma,I E W,P L L,70,M.wav",Not Pneumonia
