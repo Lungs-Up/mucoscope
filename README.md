@@ -2,7 +2,7 @@
 
 Welcome to Lungs Up's Mucoscope Data Repository! Here you can find our preliminary CAD designs for the stethoscope head, our Python notebook that houses our pneumonia classifier, and the data sets that we trained and tested on.
 
-See our website for more information about our project: [Mucoscope Home Page] 
+See our website for more information about our project: [Mucoscope Home Page](https://mucoscope.my.canva.site/) 
 
 **CAD folder:** contains our two CAD designs for our stethoscope head that we used for early prototyping. They are built upon the GliaX Stethoscope head design (Github [here](https://github.com/GliaX/Stethoscope)).  
 
